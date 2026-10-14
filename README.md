@@ -1,0 +1,2 @@
+# EmployeeWage
+Tugas OOP
